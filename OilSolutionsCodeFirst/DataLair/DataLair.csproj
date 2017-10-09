@@ -50,6 +50,8 @@
     <Compile Include="DataModel\Classifications\ACEACategory.cs" />
     <Compile Include="DataModel\Classifications\ChemicalCategory.cs" />
     <Compile Include="DataModel\Classifications\APICategory.cs" />
+    <Compile Include="DataModel\Classifications\EngineConfiguration.cs" />
+    <Compile Include="DataModel\Classifications\EuropeanEmissionStandard.cs" />
     <Compile Include="DataModel\Classifications\ILSACCategory.cs" />
     <Compile Include="DataModel\Classifications\SAECategory.cs" />
     <Compile Include="DataModel\DataContext.cs" />

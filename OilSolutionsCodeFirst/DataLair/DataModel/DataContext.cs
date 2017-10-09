@@ -23,5 +23,10 @@ namespace DataLair
 
         public DbSet<AgrgateType> AgrgateTypes { get; set; }
 
+
+
+        public DbSet<EngineConfiguration> EngineConfigurations { get; set; }
+        public DbSet<EuropeanEmissionStandard> EuropeanEmissionStandards { get; set; }
+
     }
 }
